@@ -1,3 +1,7 @@
 Aepfel
 Birnen
 Brot
+Bananen
+Orangen
+Trauben
+
