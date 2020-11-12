@@ -15,5 +15,3 @@ Geboren 06.10.1999 in Freiburg im Breisgau
 * **2016 - 2019**: TG-Informatik Richard-Fehrenbach-Gewerbeschule
 
 * **2010 - 2016**: Emil-Thoma-Realschule
-
-<p> Fork stelle von <b>Simeon Messerschmidt</b> </p>
