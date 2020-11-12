@@ -5,3 +5,6 @@ Bananen
 Orangen
 Trauben
 
+Chips
+Nuesse
+
